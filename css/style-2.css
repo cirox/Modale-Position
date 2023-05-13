@@ -16,6 +16,7 @@ header {
 header p {
     margin: 0;
     font-weight: bold;
+    font-size: 18px;
 }
 
 nav ul {
