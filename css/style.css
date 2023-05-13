@@ -103,6 +103,7 @@ main {
 
 .illustration img {
     height: auto;
+    border-radius: 8px;
 }
 
 /* MODALE */
@@ -132,6 +133,7 @@ main {
   .modal img {
     max-width: 80%;
     max-height: 80%;
+    border-radius: 8px;
   }
   
   .close {
@@ -142,12 +144,12 @@ main {
     font-size: 30px;
     font-weight: bold;
     cursor: pointer;
+    text-decoration: none;
   }
   
   .close:hover {
     color: #ccc;
   }
-  
 
 
 @media (max-width: 700px) { /* se la finestra ha una larghezza minore di 400px, fai lo sfondo verde. Questa istruzione sovrascrive la precedente, se la cancello lo sfondo sarà sempre giallo */
