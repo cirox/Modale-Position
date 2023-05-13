@@ -47,7 +47,7 @@ header, main {
 
 section {
     background: #262930;
-    padding: 32px 16px;
+    padding: 48px 16px;
 }
 
 section h1 {
@@ -55,6 +55,7 @@ section h1 {
     color: #fff;
     text-align: center;
     margin: 0;
+    font-weight: normal;
 }
 
 main {
