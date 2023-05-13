@@ -69,7 +69,6 @@ main {
 
 .bio {
     width: 40%;
-    position: sticky;
 }
 
 .bio h2 {    
@@ -180,5 +179,9 @@ footer p {
     .illustration ul {
         margin: 0;
         gap:16px;
+    }
+
+    .sticky {
+        position: static;
     }
 }
